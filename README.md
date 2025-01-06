@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Siraj udding binyasin Working in K-Electric Sr. Data Entry Officer and Also studnet of Agentic AI.
+- 👋 Hi, I’m Siraj udding binyasin Working in K-Electric Sr. Data Entry Officer and Also student of Agentic AI.
 - 👀 I’m interested in Learning Computer Programming, as i know lot of Languages as GW Basic Dbase-III PLUS, Cobol, SQL C, C++, JAVA, JavaScript , CSS, HTML.
 - 🌱 I’m currently learning  PYTHON and Agent AI which very intersing subject all of the above.
 - 💞️ I’m looking to collaborate on GitHub to share his/her view about Python and AI agentics
